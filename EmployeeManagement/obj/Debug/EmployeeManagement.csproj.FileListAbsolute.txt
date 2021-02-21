@@ -1,0 +1,6 @@
+C:\Users\acer\Documents\Visual Studio 2015\Projects\EmployeeManagement\EmployeeManagement\obj\Debug\EmployeeManagement.csproj.CoreCompileInputs.cache
+C:\Users\acer\Documents\Visual Studio 2015\Projects\EmployeeManagement\EmployeeManagement\bin\EmployeeManagement.dll.config
+C:\Users\acer\Documents\Visual Studio 2015\Projects\EmployeeManagement\EmployeeManagement\bin\EmployeeManagement.dll
+C:\Users\acer\Documents\Visual Studio 2015\Projects\EmployeeManagement\EmployeeManagement\bin\EmployeeManagement.pdb
+C:\Users\acer\Documents\Visual Studio 2015\Projects\EmployeeManagement\EmployeeManagement\obj\Debug\EmployeeManagement.dll
+C:\Users\acer\Documents\Visual Studio 2015\Projects\EmployeeManagement\EmployeeManagement\obj\Debug\EmployeeManagement.pdb
